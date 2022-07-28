@@ -36,4 +36,7 @@ In this week we have gone through an example of a simple DeFi app.
 Week 7:
 In this week we have started Non-Fungible tokens(NFT) and learnt the basics of NFT's and understood the utilities of it. I learnt that NFT's give more power to content creators than ever before.
 
+Week 8:
+In the last week I have revised all the topics I learned.
+
 
