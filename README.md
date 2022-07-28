@@ -27,3 +27,13 @@ This week we moved into the development phase We started by creating a dummy blo
 
 Languages/Frameworks/Libraries : Solidify
 
+Week 5:
+In this week we tried to build Full stack web 3.0 amazon clone using react and moralis. Then I explored about decentralized finance which is an emerging financial technology based on secure distributed ledgers similar to those used by cryptocurrencies.Decentralized finance, or DeFi, uses emerging technology to remove third parties in financial transactions.The components of DeFi are stablecoins, software, and hardware that enables the development of applications.
+
+Week 6:
+In this week we have gone through an example of a simple DeFi app.
+
+Week 7:
+In this week we have started Non-Fungible tokens(NFT) and learnt the basics of NFT's and understood the utilities of it. I learnt that NFT's give more power to content creators than ever before.
+
+
